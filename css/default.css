@@ -71,6 +71,7 @@ ul {
 
   :any-link {
 	color: #000000;
+	image-rendering: auto;
    }
 
 .list {
