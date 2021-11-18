@@ -1,0 +1,94 @@
+html {
+	font-family: monospace;
+}
+body {
+	color:#000000;
+	background-color: #48465D;
+	}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 27.5px;
+	text-decoration: underline;
+}
+p {
+	font-size:25px;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 75px;
+  }
+  
+  .nav a {
+	display: inline-block;
+	margin: 0;
+  }
+  
+  li {
+	display: inline;
+	list-style: none;
+	margin: 0px 30px;
+  }
+  
+  li a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-size: 30px;
+  }
+  
+  a {
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+  }
+  
+  .active {
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+  }
+
+  :any-link {
+	color: #000000;
+   }
+
+.list {
+	font-size: 25px;
+}
+
+.par {
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: right;
+}
+
+mot {
+	color:#FF0000;
+	text-decoration: underline;
+	text-decoration-color: #000000;
+}
+
+.toujours {
+	text-decoration: underline;
+}
