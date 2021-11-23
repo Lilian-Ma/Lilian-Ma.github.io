@@ -2,7 +2,7 @@ html {
 	font-family: monospace;
 }
 body {
-	color:#000000;
+	color:#FFFFFF;
 	background-color: #48465D;
 	}
 
@@ -63,14 +63,14 @@ ul {
   }
   
   .active {
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
 	text-decoration: none;
   }
 
   :any-link {
-	color: #000000;
+	color: #FFFFFF;
 	image-rendering: auto;
    }
 
@@ -87,7 +87,7 @@ ul {
 mot {
 	color:#FF0000;
 	text-decoration: underline;
-	text-decoration-color: #000000;
+	text-decoration-color: #FFFFFF;
 }
 
 .toujours {
