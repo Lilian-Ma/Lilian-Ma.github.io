@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	color:#000000;
+	color:#FFFFFF;
 	background-color: #48465D;
 }
 
@@ -13,7 +13,7 @@ p {
 }
 
 :any-link {
-	color: #000000;
+	color: #FFFFFF;
     text-decoration: none;
 }
 h1 {
